@@ -1,0 +1,23 @@
+{
+  "style": ["رسمی", "مدرن", "مینیمال", "قابل اعتماد"],
+  "colors": {
+    "primary": "#0F2742",
+    "primaryDark": "#091A2C",
+    "accent": "#B89146",
+    "background": "#F8F7F4",
+    "surface": "#FFFFFF",
+    "textPrimary": "#17202A",
+    "textSecondary": "#5E6873",
+    "border": "#E2E5E9",
+    "success": "#1F7A5A",
+    "error": "#B42318"
+  },
+  "typography": {
+    "headingFont": "Vazirmatn",
+    "bodyFont": "Vazirmatn",
+    "direction": "rtl",
+    "documentLanguage": "fa-IR"
+  },
+  "radius": "0.75rem",
+  "shadow": "0 10px 30px -12px rgba(15, 39, 66, 0.18)"
+}

@@ -1,0 +1,48 @@
+{
+  "sectionTitle": "خدمات حقوقی",
+  "sectionSubtitle": "حوزه‌های تخصصی ارائه خدمات",
+  "items": [
+    {
+      "id": "service-family",
+      "title": "دعاوی خانواده و طلاق",
+      "description": "مشاوره و پیگیری پرونده‌های طلاق، مهریه، نفقه و حضانت فرزندان.",
+      "iconKey": "family"
+    },
+    {
+      "id": "service-property",
+      "title": "دعاوی ملکی",
+      "description": "بررسی و پیگیری دعاوی مربوط به املاک، قراردادهای ملکی و اختلافات مالکیت.",
+      "iconKey": "property"
+    },
+    {
+      "id": "service-criminal",
+      "title": "دعاوی کیفری",
+      "description": "دفاع و مشاوره حقوقی در پرونده‌های کیفری.",
+      "iconKey": "criminal"
+    },
+    {
+      "id": "service-contract",
+      "title": "تنظیم و بررسی قراردادها",
+      "description": "تنظیم، بازبینی و اصلاح قراردادهای اشخاص و کسب‌وکارها.",
+      "iconKey": "contract"
+    },
+    {
+      "id": "service-debt",
+      "title": "وصول مطالبات",
+      "description": "پیگیری حقوقی وصول مطالبات و دیون.",
+      "iconKey": "debt"
+    },
+    {
+      "id": "service-inheritance",
+      "title": "ارث و انحصار وراثت",
+      "description": "مشاوره و پیگیری امور مربوط به ارث و انحصار وراثت.",
+      "iconKey": "inheritance"
+    },
+    {
+      "id": "service-consulting",
+      "title": "مشاوره حقوقی اشخاص و کسب‌وکارها",
+      "description": "ارائه مشاوره حقوقی تخصصی برای اشخاص حقیقی و حقوقی.",
+      "iconKey": "consulting"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "sectionTitle": "درخواست وقت مشاوره",
+  "sectionSubtitle": "این فرم ثبت درخواست است، نه رزرو قطعی. تأیید نهایی از طریق تماس دفتر انجام می‌شود.",
+  "consultationTypes": [
+    { "id": "in-person", "label": "مشاوره حضوری" },
+    { "id": "phone", "label": "مشاوره تلفنی" },
+    { "id": "online", "label": "مشاوره آنلاین" }
+  ],
+  "settings": {
+    "sessionDurationMinutes": 30,
+    "workingDays": "شنبه تا پنجشنبه",
+    "workingHours": "۹ تا ۱۸",
+    "feeNotice": "هزینه پس از بررسی درخواست اعلام می‌شود.",
+    "onlinePaymentEnabled": false,
+    "finalConfirmationNotice": "تأیید نهایی از طریق تماس دفتر انجام می‌شود."
+  },
+  "fields": [
+    { "id": "fullName", "label": "نام و نام خانوادگی", "type": "text", "required": true },
+    { "id": "phone", "label": "شماره تماس", "type": "tel", "required": true },
+    { "id": "consultationType", "label": "نوع مشاوره", "type": "select", "required": true },
+    { "id": "legalTopic", "label": "موضوع حقوقی", "type": "text", "required": true },
+    { "id": "preferredDate", "label": "تاریخ پیشنهادی", "type": "date", "required": false },
+    { "id": "preferredTime", "label": "بازه زمانی پیشنهادی", "type": "text", "required": false },
+    { "id": "description", "label": "توضیح مختصر", "type": "textarea", "required": false },
+    { "id": "privacyConsent", "label": "با ثبت این فرم، سیاست حفظ حریم خصوصی را می‌پذیرم.", "type": "checkbox", "required": true }
+  ],
+  "submitLabel": "ثبت درخواست مشاوره",
+  "successMessage": "درخواست شما با موفقیت ثبت شد. برای هماهنگی نهایی با شما تماس گرفته خواهد شد.",
+  "errorMessage": "ثبت درخواست با خطا مواجه شد. لطفاً دوباره تلاش کنید یا مستقیماً تماس بگیرید."
+}

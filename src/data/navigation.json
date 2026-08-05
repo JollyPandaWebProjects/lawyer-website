@@ -1,0 +1,14 @@
+{
+  "brandLabel": "سارا محمدی",
+  "items": [
+    { "id": "nav-home", "label": "خانه", "href": "#hero" },
+    { "id": "nav-about", "label": "درباره من", "href": "#about" },
+    { "id": "nav-services", "label": "خدمات", "href": "#services" },
+    { "id": "nav-process", "label": "روند همکاری", "href": "#process" },
+    { "id": "nav-testimonials", "label": "نظرات موکلین", "href": "#testimonials" },
+    { "id": "nav-booking", "label": "درخواست مشاوره", "href": "#booking" },
+    { "id": "nav-faq", "label": "سوالات متداول", "href": "#faq" },
+    { "id": "nav-contact", "label": "تماس با من", "href": "#contact" }
+  ],
+  "ctaButton": { "label": "درخواست مشاوره", "href": "#booking" }
+}

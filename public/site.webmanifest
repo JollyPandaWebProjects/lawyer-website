@@ -1,0 +1,17 @@
+{
+  "name": "زینب نصرالله‌نیا | وکیل پایه یک دادگستری",
+  "short_name": "نصرالله‌نیا",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F8F7F4",
+  "theme_color": "#0F2742",
+  "lang": "fa-IR",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "/favicon/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "title": "سارا محمدی | وکیل پایه یک دادگستری در مشهد",
+  "description": "مشاوره و پیگیری پرونده‌های حقوقی در مشهد توسط سارا محمدی، وکیل پایه یک دادگستری. دعاوی خانواده، ملکی، کیفری و قراردادی.",
+  "keywords": [
+    "وکیل مشهد",
+    "وکیل پایه یک دادگستری مشهد",
+    "مشاوره حقوقی مشهد",
+    "وکیل خانواده مشهد",
+    "وکیل ملکی مشهد"
+  ],
+  "canonicalUrl": "https://example.com/",
+  "siteName": "سارا محمدی - وکیل پایه یک دادگستری",
+  "locale": "fa_IR",
+  "openGraph": {
+    "type": "profile",
+    "title": "سارا محمدی | وکیل پایه یک دادگستری در مشهد",
+    "description": "مشاوره حقوقی تخصصی در مشهد؛ دعاوی خانواده، ملکی، کیفری و قراردادی.",
+    "image": "/images/og-cover.webp"
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "title": "سارا محمدی | وکیل پایه یک دادگستری در مشهد",
+    "description": "مشاوره حقوقی تخصصی در مشهد؛ دعاوی خانواده، ملکی، کیفری و قراردادی.",
+    "image": "/images/og-cover.webp"
+  },
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "Attorney",
+    "name": "سارا محمدی",
+    "jobTitle": "وکیل پایه یک دادگستری",
+    "areaServed": "مشهد",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "مشهد",
+      "addressCountry": "IR"
+    }
+  }
+}

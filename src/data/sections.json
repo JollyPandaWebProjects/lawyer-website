@@ -1,0 +1,12 @@
+{
+  "order": [
+    { "id": "hero", "isEnabled": true },
+    { "id": "about", "isEnabled": true },
+    { "id": "services", "isEnabled": true },
+    { "id": "process", "isEnabled": true },
+    { "id": "testimonials", "isEnabled": true },
+    { "id": "booking", "isEnabled": true },
+    { "id": "faq", "isEnabled": true },
+    { "id": "contact", "isEnabled": true }
+  ]
+}

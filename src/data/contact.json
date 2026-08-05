@@ -1,0 +1,28 @@
+{
+  "phone": "۰۹۱۲۱۲۳۴۵۶۷",
+  "phoneRaw": "+989121234567",
+  "whatsapp": "۹۸۹۱۲۱۲۳۴۵۶۷",
+  "whatsappRaw": "989121234567",
+  "email": "info@sara-mohammadi-law.ir",
+  "address": "مشهد، بلوار وکیل‌آباد، ساختمان آفتاب، طبقه ۳، واحد ۵",
+  "workingHours": {
+    "weekdays": "شنبه تا چهارشنبه، ساعت ۹ تا ۱۸",
+    "thursday": "پنجشنبه، ساعت ۹ تا ۱۳",
+    "friday": "تعطیل"
+  },
+  "mapUrl": "",
+  "form": {
+    "sectionTitle": "تماس با من",
+    "sectionSubtitle": "برای سوالات عمومی، پیام خود را ارسال کنید.",
+    "fields": [
+      { "id": "name", "label": "نام و نام خانوادگی", "type": "text", "required": true },
+      { "id": "phone", "label": "شماره تماس", "type": "tel", "required": true },
+      { "id": "email", "label": "ایمیل", "type": "email", "required": false },
+      { "id": "subject", "label": "موضوع", "type": "text", "required": true },
+      { "id": "message", "label": "پیام", "type": "textarea", "required": true }
+    ],
+    "submitLabel": "ارسال پیام",
+    "successMessage": "پیام شما ارسال شد. در اسرع وقت پاسخ داده خواهد شد.",
+    "errorMessage": "ارسال پیام با خطا مواجه شد. لطفاً دوباره تلاش کنید یا مستقیماً تماس بگیرید."
+  }
+}

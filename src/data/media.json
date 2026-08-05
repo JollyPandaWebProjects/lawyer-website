@@ -1,0 +1,31 @@
+{
+  "heroPortrait": {
+    "type": "emoji",
+    "value": "👩‍⚖️",
+    "alt": "تصویر پروفایل سارا محمدی، وکیل پایه یک دادگستری در مشهد"
+  },
+  "aboutImage": {
+    "type": "emoji",
+    "value": "🏛️",
+    "alt": "دفتر وکالت سارا محمدی در مشهد"
+  },
+  "logo": {
+    "type": "emoji",
+    "value": "⚖️",
+    "alt": "نماد ترازوی عدالت"
+  },
+  "serviceIcons": {
+    "family": { "type": "emoji", "value": "👨‍👩‍👧", "alt": "دعاوی خانواده" },
+    "property": { "type": "emoji", "value": "🏠", "alt": "دعاوی ملکی" },
+    "criminal": { "type": "emoji", "value": "🛡️", "alt": "دعاوی کیفری" },
+    "contract": { "type": "emoji", "value": "📄", "alt": "قراردادها" },
+    "debt": { "type": "emoji", "value": "💰", "alt": "وصول مطالبات" },
+    "inheritance": { "type": "emoji", "value": "🧾", "alt": "ارث و انحصار وراثت" },
+    "consulting": { "type": "emoji", "value": "💬", "alt": "مشاوره حقوقی" }
+  },
+  "testimonialAvatarFallback": {
+    "type": "emoji",
+    "value": "🙂",
+    "alt": "آواتار پیش‌فرض موکل"
+  }
+}
